@@ -6,7 +6,7 @@ Predicting daily animal shelter intake to help shelters optimize staffing, resou
 **Goal:** Experiment with and build a forecasting model to help animal shelters prepare for high-intake periods. Allow shelter staff to easily query model using an NLP/GenAI interface.
 
 ## Why This Matters
-Animal shelters operate with limited resources. Unexpected intake surges can lead to overcrowding, staff burnout, reduced care quality and potentially more euthinizations. Accurate forecasts allow shelters to:
+Animal shelters operate with limited resources. Unexpected intake surges can lead to overcrowding, staff burnout, and reduced care quality. Accurate forecasts allow shelters to:
 - Schedule staff proactively
 - Prepare intake spaces
 - Coordinate with other shelters and foster networks
