@@ -18,7 +18,7 @@ Animal shelters operate with limited resources. Unexpected intake surges can lea
 - **Features:** Shelter census, animal demographics, weather conditions, temporal patterns
 
 ### Key Learning: Production Monitoring
-My Selenium scraper failed silently for 2 months—a critical lesson in building robust data pipelines with proper logging and alerts.
+My Selenium scraper failed silently for 2 months. A critical lesson for me in building robust data pipelines with proper logging and alerts.
 
 ## Data Structure
 The `data/raw/` directory contains daily snapshots in the format `animal_data_YYYYMMDD.csv`.
