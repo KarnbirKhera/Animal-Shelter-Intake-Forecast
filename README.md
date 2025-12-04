@@ -119,7 +119,7 @@ The `data/raw/` directory contains daily snapshots in the format `animal_data_YY
 - [ ] Natural language query interface
 - [ ] Guardrails AI (LLM output validation)
 
-  **Optional LLM Integration for Complex Histoical Queries**
+  **Optional LLM Integration for Complex Historical Queries**
   - [ ] Vector Database for RAG
   - [ ] OpenAI Embeddings
   - [ ] Historical Data Indexing 
