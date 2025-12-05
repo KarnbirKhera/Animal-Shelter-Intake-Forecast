@@ -82,9 +82,6 @@ The `data/raw/` directory contains daily snapshots in the format `animal_data_YY
 - [ ] GitHub Actions
 - [ ] Evidently AI/AWS Model Monitor
 
-**Misc**
-- [ ] Kubernetes (mainly to learn how to use for industry practice, not necessarily required for this project due to cost restraint and project size)
-- [ ] Databricks (mainly to learn how to use for industry practice, not necessarily required for this project due to cost restraint and project size)
 
 
 
